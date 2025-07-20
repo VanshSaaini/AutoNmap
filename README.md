@@ -1,6 +1,6 @@
-# ScanMate 🛡️
+# AutoNmap 🛡️
 
-ScanMate is a lightweight Bash-based wrapper around `nmap` that simplifies common network scanning tasks like scanning IP ranges, detecting services, running aggressive scans, and more. It's perfect for sysadmins, penetration testers, and cybersecurity learners.
+AutoNmap  is a lightweight Bash-based wrapper around `nmap` that simplifies common network scanning tasks like scanning IP ranges, detecting services, running aggressive scans, and more. It's perfect for sysadmins, penetration testers, and cybersecurity learners.
 
 ---
 
@@ -27,5 +27,5 @@ ScanMate is a lightweight Bash-based wrapper around `nmap` that simplifies commo
 ## 🚀 Usage
 
 ```bash
-chmod +x scanmate.sh
-./scanmate.sh
+chmod +x AutoNmap.sh
+./AutoNmap.sh
