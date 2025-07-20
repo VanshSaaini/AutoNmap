@@ -27,5 +27,5 @@ AutoNmap  is a lightweight Bash-based wrapper around `nmap` that simplifies comm
 ## 🚀 Usage
 
 ```bash
-chmod +x AutoNmap.sh
-./AutoNmap.sh
+chmod +x script.sh
+./script.sh
